@@ -45,7 +45,7 @@ Vagrant.configure("2") do |config|
 end
 ```
 - - create provisioning file for the app on the host machine
-  ```provision.sh for app
+```provision.sh for app
   #!/bin/bash
 
 # Update the sources list
